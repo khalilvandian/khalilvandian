@@ -1,45 +1,24 @@
-### Hi there 👋
-
 # Babak Khalilvandian
 
-## Work Experience
-- **Data Science Freelancer:**
-  - Corona test prediction based on symptoms
-  - Data Warehouse Design for ECDC data Implemented in sqlite
-  - Extraction of News, Titles, sources, etc. from PDF file using REGEX in python
+## About Me
 
-- **Lab. Data Analyst, University of Tabriz, Neuroscience Lab. (2021/04 - 2021/09):**
-  - Cognitive Task Implementation, Behavioral and EEG Data Gathering, Data Analysis
-
-- **CRM Manager, Mohajerat Plus (2022/10 - 2022/12):**
-  - Metrics Design, Performance Report
-
-## Education
-- **MA in Data Science**
-  - University of Milano-Bicocca, Milano, Italy (2023-Now)
-  - Studying the Business Track.
-
-- **BA in Computer Engineering**
-  - University of Tabriz, Tabriz, Iran (2017-2021)
-  - Projects in the program:
-    - Recommender System for Online Grocery Store: Used Item-Based filtering for finding similarities calculated by Pearson formula between products.
-    - Facebook Database in Tsql: Design and implementation of a database suited for Facebook data in Tsql.
-    - Student Management System Database: Implemented a working database in Java for software intended for keeping university records.
-    - UML Diagram for Student Management Software: Diagram of software for managing students and online classes for a software engineering course.
-
-- **Google Data Analytics Specialization**
+Determined to improve my professional life, I have come to Milan. I am passionate to research challenges and exploit data to come up with solutions with my analytical thinking and innovation. I have freelanced for 3 years.
 
 ## Skills
-- **Programming Languages and Libraries:**
-  - Java, Python, SQL, Pandas, NumPy, Matplotlib
 
-- **Softwares and Technical Skills:**
-  - Matlab, Tableau, Microsoft Excel, Google Sheets, Data Cleaning, Questionnaire Design
+Through the years, I have acquired a diverse skill set in various languages, tools, and technologies. Here are the main ones:
+* Programming Languages: Python, JavaScript, SQL
+* Tools: Tableau, Knime, MongoDB, MATLAB, Spreadsheets
 
-- **Soft Skills:**
-  - Presentation, Clear Communication, Analytical Thinking
+## Projects
 
-## Language Proficiency
-- **English:** TOEFL C1
-- **Azerbaijani, Persian:** Native
-- **French:** A
+* My Database for Fragrances
+* Clustering Supermarket Customers
+* Data Warehouse and Data Mart for ECDC Data
+
+## Contact Me
+
+* Email: b.khalilvandian@campus.unimib.it
+* LinkedIn: [babak-khalilvandian](www.linkedin.com/in/babak-khalilvandian)
+* Twitter: [Your Twitter handle]
+* Portfolio: [Link to your online portfolio]
