@@ -20,5 +20,3 @@ Through the years, I have acquired a diverse skill set in various languages, too
 
 * Email: b.khalilvandian@campus.unimib.it
 * LinkedIn: [babak-khalilvandian](www.linkedin.com/in/babak-khalilvandian)
-* Twitter: [Your Twitter handle]
-* Portfolio: [Link to your online portfolio]
