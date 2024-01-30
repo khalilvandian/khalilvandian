@@ -2,7 +2,7 @@
 
 ## About Me
 
-Determined to improve my professional life, I have come to Milan. I am passionate to research challenges and exploit data to come up with solutions with my analytical thinking and innovation. I have freelanced for 3 years.
+I am a Data Scientist with a passion for using my skills gained through education and years of freelancing to explore new domains and contribute to innovative projects.
 
 ## Skills
 
